@@ -1,2 +1,2 @@
 # restful-api
-A RESTful API create with pure JavaScript code in Node.js.
+A RESTful API created with pure JavaScript code in Node.js.
